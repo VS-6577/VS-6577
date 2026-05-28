@@ -1,7 +1,7 @@
 ## Hi, I am Vedika Singh!👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&width=450&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
-
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![GSSoC Contributor](https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=github)
 ### 🏅 My GSSoC Achievements
 <p align="left">
