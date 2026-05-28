@@ -31,28 +31,19 @@
 </table>
 <p align="center">
   <samp>
-    <h1>🪐 V E D I K A • S I N G H 🪐</h1>
-    •—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•
-    <br>
-    <b>⚡ FULL STACK DEVELOPER // OPEN SOURCE CONTRIBUTOR ⚡</b>
-    <br>
-    •—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•—•
+    🪐 ˚🏼𖦹.✨🏼•*🏼🪐🏼*•🏼✨.𖦹🏼˚ 🪐
+    <h1>🌸 VEDIKA SINGH 🌸</h1>
+    <h4>(❀🏼´🏼꒳🏼`🏼❀🏼) ‹ Full Stack Developer › (🏼✩🏼🏼•🏼🏼🏼•🏼🏼🏼✩🏼🏼)</h4>
+    ✨ ✧•🌟•✧ •——————• ✧•🌟•✧ ✨
   </samp>
 </p>
 
 <p align="center">
   <a href="https://github.com/VS-6577">
-    <img src="https://img.shields.io/badge/GSSOC--CONTRIBUTOR_2026-🔴-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="GSSoC Contributor" />
+    <img src="https://img.shields.io/badge/GSSOC-CONTRIBUTOR-orange?style=for-the-badge&logo=github" alt="GSSoC Contributor" />
   </a>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_MODE-00F5D4?style=for-the-badge" />
 </p>
 
-<br>
+<p align="center">‧🏼₊˚🏼🌸🏼₊˚🏼‧🏼₊˚🏼🌸🏼₊˚🏼‧🏼₊˚🏼🌸🏼₊˚🏼‧🏼₊˚🏼🌸🏼₊˚🏼‧</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,tailwind,git,docker,vscode&theme=dark" alt="My Tech Stack" />
-</p>
-
-<br>
-
-## 🌌 SYSTEM OVERVIEW
+## 🌌 ABOUT ME
