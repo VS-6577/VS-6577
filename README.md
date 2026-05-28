@@ -1,7 +1,6 @@
 ## Hi, I am Vedika Singh!👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&width=450&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![GSSoC Contributor](https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=github)
 ### 🏅 My GSSoC Achievements
 <p align="left">
@@ -31,11 +30,10 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00F5D4&height=180&section=header&text=VEDIKA%20SINGH&fontSize=50&fontColor=000000" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD166&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <samp>
+    <h1>✨ VEDIKA SINGH ✨</h1>
+    <h3>‹ Full Stack Developer | Open Source Contributor ›</h3>
+  </samp>
 </p>
 
 <p align="center">
@@ -52,13 +50,16 @@
 
 ---
 
-### 🌌 Ecosystem Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VS-6577&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <samp>
+    <h2>🌌 ECOSYSTEM METRICS</h2>
+  </samp>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stroke-profile.vercel.app/?username=VS-6577&theme=dark" alt="Profile Stroke Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VS-6577&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS-6577&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
