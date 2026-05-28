@@ -1,9 +1,11 @@
 ## Hi, I am Vedika Singh!👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&width=450&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
-<a href="https://github.com/VS-6577">
-  <img src="https://img.shields.io/badge/GSSOC-CONTRIBUTOR-orange?style=for-the-badge&logo=github" alt="GSSoC" />
-</a>
+<p align="left">
+  <a href="https://github.com/VS-6577">
+    <img src="https://img.shields.io/badge/GSSOC-CONTRIBUTOR-orange?style=for-the-badge&logo=github" alt="GSSoC" />
+  </a>
+</p>
 ### 🏅 My GSSoC Achievements
 <p align="left">
 <img src=https://gssoc.girlscript.org/badges/milestone/rising_star.png width="100" /> <img src=https://gssoc.girlscript.org/badges/milestone/bounty_master.png width="100" /> <img src=https://gssoc.girlscript.org/badges/milestone/first_steps.png width="100" /> <img src=https://gssoc.girlscript.org/badges/milestone/discord_verified.png width="100" /><img src=https://gssoc.girlscript.org/badges/milestone/profile_complete.png width="100" /> <img src=https://gssoc.girlscript.org/badges/milestone/point_scorer.png width="100" /> <img src=https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png width="100" /> <img src=https://gssoc.girlscript.org/badges/milestone/role_contributor.png width="100" /> <img src=https://gssoc.girlscript.org/badges/milestone/week_one.png width="100" />
@@ -31,22 +33,3 @@
     </td>
   </tr>
 </table>
-# 🌸 Vedika Singh
-
-> Full Stack Developer • Open Source Contributor
-
----
-
-### ✨ My Workspace
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,tailwind,git,docker,vscode" alt="Tech Stack" />
-</p>
-
----
-
-### 🌌 Connected Platforms
-
-<a href="https://github.com/VS-6577">
-  <img src="https://img.shields.io/badge/GSSOC-CONTRIBUTOR-orange?style=for-the-badge&logo=github" alt="GSSoC" />
-</a>
