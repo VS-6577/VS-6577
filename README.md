@@ -1,4 +1,5 @@
 ## Hi, I am Vedika Singh!👋
+![Header](https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40)
 
 ![GSSoC Contributor](https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=github)
 ### 🏅 My GSSoC Achievements
