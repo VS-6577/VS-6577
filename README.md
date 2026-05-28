@@ -34,8 +34,7 @@
     </td>
   </tr>
 </table>
-## 🪐 System Metrics
-
+<br>
 <p align="left">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=VS-6577&theme=rainbow&screen_effect=false" alt="Pixel Stats" />
+  <samp>🔮 𖦹.✨ <i>"Building things with code and a little bit of magic."</i> ✨.𖦹 🔮</samp>
 </p>
