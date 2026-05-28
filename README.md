@@ -34,7 +34,10 @@
     </td>
   </tr>
 </table>
-<br>
-<p align="left">
-  <samp>🔮 𖦹.✨ <i>"Building things with code and a little bit of magic."</i> ✨.𖦹 🔮</samp>
-</p>
+```text
+      /\_/\   🏼  ✦
+     ( o.o )  *     .  ✨
+      > ^ <      .  🪐
+     /     \         *
+    |       |   .  ✦
+   (___)___)
