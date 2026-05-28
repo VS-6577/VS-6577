@@ -34,9 +34,6 @@
     </td>
   </tr>
 </table>
-<table border="0">
-  <tr>
-    <td valign="top">
 ```text
       /\_/\     ✦
      ( o.o )  *     .  ✨
@@ -44,9 +41,6 @@
      /     \         *
     |       |   .  ✦
    (___)___)
-</td>
-<td valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td valign="top">
 __________________________
 |  ______________________  |
 | |                      | |
@@ -58,4 +52,4 @@ __________________________
 |   |_   _|      🌸   ✨    |
 |     |_|       SELECT START |
 |__________________________|
-</td>
+
