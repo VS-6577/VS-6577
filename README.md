@@ -34,3 +34,10 @@
     </td>
   </tr>
 </table>
+### 🌸 Find Me In The Stars
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-🌸_pastel_pink-FFB7B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-✨_soft_gold-FFE5B4?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-💫_mint-BFFCC6?style=for-the-badge&logo=twitter&logoColor=black" /></a>
+</p>
