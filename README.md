@@ -30,11 +30,17 @@
     </td>
   </tr>
 </table>
-> ### 👩‍💻 Terminal:~/vedika-singh$ cat info.json
-> ```json
-> {
->   "current_focus": "Building sleek full-stack web applications",
->   "learning": "Advanced system architecture & cloud deployment",
->   "fun_fact": "I spend way too much time adjusting hex color codes"
-> }
-> ```
+### 👩‍💻 Terminal:~/vedika-singh$ cat info.json
+```json
+{
+  "current_focus": "Building sleek full-stack web applications",
+  "learning": "Advanced system architecture & cloud deployment",
+  "fun_fact": "I spend way too much time adjusting hex color codes"
+}
+---
+
+## 2. Dynamic Isometric 3D Contributions (The Ultimate Decoration) ```markdown
+### 🏗️ My GitHub Contribution City
+
+![Isometric 3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=VS-6577&theme=dark)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
