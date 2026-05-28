@@ -31,7 +31,11 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vedika+Singh!+👋;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=00F5D4&height=180&section=header&text=VEDIKA%20SINGH&fontSize=50&fontColor=000000" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD166&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,11 +44,21 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+---
 
-### 👩‍💻 Terminal:~/vedika-singh$ cat info.json  ```json
-{
-  "current_focus": "Building sleek full-stack web applications",
-  "learning": "Advanced system architecture & cloud deployment",
-  "fun_fact": "I spend way too much time adjusting hex color codes"
-}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,tailwind,git,docker,vscode" alt="My Tech Stack" />
+</p>
+
+---
+
+### 🌌 Ecosystem Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VS-6577&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stroke-profile.vercel.app/?username=VS-6577&theme=dark" alt="Profile Stroke Graph" />
+</p>
+
