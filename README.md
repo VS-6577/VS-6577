@@ -29,37 +29,3 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <samp>
-    <h1>✨ VEDIKA SINGH ✨</h1>
-    <h3>‹ Full Stack Developer | Open Source Contributor ›</h3>
-  </samp>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VS-6577">
-    <img src="https://img.shields.io/badge/GSSOC-CONTRIBUTOR-orange?style=for-the-badge&logo=github" alt="GSSoC Contributor" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,tailwind,git,docker,vscode" alt="My Tech Stack" />
-</p>
-
----
-
-<p align="center">
-  <samp>
-    <h2>🌌 ECOSYSTEM METRICS</h2>
-  </samp>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VS-6577&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS-6577&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
