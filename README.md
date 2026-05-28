@@ -30,3 +30,11 @@
     </td>
   </tr>
 </table>
+> ### 👩‍💻 Terminal:~/vedika-singh$ cat info.json
+> ```json
+> {
+>   "current_focus": "Building sleek full-stack web applications",
+>   "learning": "Advanced system architecture & cloud deployment",
+>   "fun_fact": "I spend way too much time adjusting hex color codes"
+> }
+> ```
