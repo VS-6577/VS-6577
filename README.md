@@ -29,21 +29,22 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <samp>
-    🪐 ˚🏼𖦹.✨🏼•*🏼🪐🏼*•🏼✨.𖦹🏼˚ 🪐
-    <h1>🌸 VEDIKA SINGH 🌸</h1>
-    <h4>(❀🏼´🏼꒳🏼`🏼❀🏼) ‹ Full Stack Developer › (🏼✩🏼🏼•🏼🏼🏼•🏼🏼🏼✩🏼🏼)</h4>
-    ✨ ✧•🌟•✧ •——————• ✧•🌟•✧ ✨
-  </samp>
+# 🌸 Vedika Singh
+
+> Full Stack Developer • Open Source Contributor
+
+---
+
+### ✨ My Workspace
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,tailwind,git,docker,vscode" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/VS-6577">
-    <img src="https://img.shields.io/badge/GSSOC-CONTRIBUTOR-orange?style=for-the-badge&logo=github" alt="GSSoC Contributor" />
-  </a>
-</p>
+---
 
-<p align="center">‧🏼₊˚🏼🌸🏼₊˚🏼‧🏼₊˚🏼🌸🏼₊˚🏼‧🏼₊˚🏼🌸🏼₊˚🏼‧🏼₊˚🏼🌸🏼₊˚🏼‧</p>
+### 🌌 Connected Platforms
 
-## 🌌 ABOUT ME
+<a href="https://github.com/VS-6577">
+  <img src="https://img.shields.io/badge/GSSOC-CONTRIBUTOR-orange?style=for-the-badge&logo=github" alt="GSSoC" />
+</a>
